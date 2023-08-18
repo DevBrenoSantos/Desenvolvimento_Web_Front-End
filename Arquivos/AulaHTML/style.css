@@ -1,0 +1,19 @@
+*{
+    background-color: #a133e1;
+    color: rgb(50, 181, 50);    
+}
+section{
+    align-items: first baseline;
+    justify-content: center;
+
+}
+header{
+    align-items: center;
+    justify-content: space-around;
+}
+.container img{
+    max-width: 10rem;
+    max-height: 10rem;
+    width: auto;
+    height: auto;
+}
