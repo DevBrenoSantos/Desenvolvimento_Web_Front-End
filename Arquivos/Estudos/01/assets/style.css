@@ -1,0 +1,38 @@
+* {
+    background-color: var(--rosa-claro);
+    color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.element1 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: var(--roxo);
+}
+
+.element2 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: var(--roxo);
+}
+
+.element3 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: var(--roxo);
+}
+
+.element1 p, .element2 p, .element3 p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
